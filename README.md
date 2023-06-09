@@ -8,4 +8,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paradox-detth&show_icons=true&locale=en" alt=".paradox-detth" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paradoxwest&" alt="paradoxwest" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paradox-detth&" alt=".paradox-detth" /></p>
