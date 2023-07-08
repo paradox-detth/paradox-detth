@@ -16,13 +16,12 @@
 
  <img src = "https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white" alt = "Libreoffice"/><a>
  <img src = "https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt = "Microsoft"/><a>
- <img src = "https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" alt = "Debian"/><a>
 
 -> **Other**
 
  <img src = "https://img.shields.io/badge/-Zorin%20OS-%2310AAEB?style=for-the-badge&logo=zorin&logoColor=white" alt = "Zorin OS"/><a>
  <img src = "https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white" alt = "Windows 11"/><a>
- <img src = "" alt = ""/><a>
+ <img src = "https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" alt = "Debian"/><a>
 
 -> **Contact**
 
