@@ -23,6 +23,7 @@
  <img src = "https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white" alt = "Windows 11"/><a>
  <img src = "https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" alt = "Debian"/><a>
  <img src = "https://img.shields.io/badge/Microsoft%20Bing-258FFA?style=for-the-badge&logo=Microsoft%20Bing&logoColor=white" alt = "Microsoft Bing"/><a>
+ 
 
 -> **Contact**
 
