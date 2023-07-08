@@ -1,4 +1,4 @@
-<h2> / skills / </h2>
+<h3> SKILLS </h3>
 
 -> **Backend**
 
