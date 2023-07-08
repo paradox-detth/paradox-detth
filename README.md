@@ -38,7 +38,7 @@
 
 </br></br>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=realnaith&&theme=radical" alt="realnaith" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=paradox-detth&theme=transparent&hide_border=true&border_radius=1&date_format=M%20j%5B%2C%20Y%5D&card_width=350&type=png)](https://git.io/streak-stats" alt="realnaith" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=realnaith&show_icons=true&locale=en&layout=compact&theme=radical" alt="realnaith" /></p> 
 
 </br></br>
