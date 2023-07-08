@@ -11,7 +11,13 @@
   <img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt = "CSS3"/><a>
   <img src = "https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt = "HTML5"/><a>
   <img src = "https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" alt = "Powershell"/><a>
-  
+
+-> **Office**
+
+ <img src = "https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white" alt = "Libreoffice"/><a>
+ <img src = "" alt = ""/><a>
+ <img src = "" alt = ""/><a>
+
 -> **Contact**
 
 <a href="https://discord.gg/rs4VfrUghT"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label=" alt="discord"></a>
