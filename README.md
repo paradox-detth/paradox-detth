@@ -1,7 +1,7 @@
 -> **Skills** 
 
   <img src = "https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt = "Nodejs"/><a>
-  <img src = "https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt = "Nodejs" />
+  <img src = "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt = "Python"/><a>
   
 -> **Contact**
 
