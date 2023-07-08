@@ -23,8 +23,11 @@
  <img src = "https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white" alt = "Windows 11"/><a>
  <img src = "https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" alt = "Debian"/><a>
  <img src = "https://img.shields.io/badge/Microsoft%20Bing-258FFA?style=for-the-badge&logo=Microsoft%20Bing&logoColor=white" alt = "Microsoft Bing"/><a>
- 
 
+ -> **Work**
+
+  <img src = "https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt = "Behance"/><a>
+ 
 -> **Contact**
 
 <a href="https://discord.gg/rs4VfrUghT"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label=" alt="discord"></a>
