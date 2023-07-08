@@ -1,4 +1,4 @@
-<h3> SKILLS </h3>
+<h3> {0x000000FF}SKILLS </h3>
 
 -> **Backend**
 
