@@ -43,9 +43,10 @@
 
 </br></br>
 
+-> **Contact**
+
 <a href="https://instagram.com/realnaith"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label=" alt="instagram"></a>
-<a href="https://twitter.com/realnaith"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1D9BF0&logo=Twitter&logoColor=FFFFFF&label=" alt="twitter"></a>
-<a href="https://youtube.com/@realnaith"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=YouTube&color=FF0000&logo=YouTube&logoColor=FFFFFF&label=" alt="youtube"></a>
-<a href="https://discord.com/invite/BgAa5uzPB9"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label=" alt="discord"></a>
+<a href="https://www.youtube.com/channel/UCMPD5W38BoD6xahW7_vWDlg"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=YouTube&color=FF0000&logo=YouTube&logoColor=FFFFFF&label=" alt="youtube"></a>
+<a href="https://discord.gg/rs4VfrUghT"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label=" alt="discord"></a>
 
 </div>
