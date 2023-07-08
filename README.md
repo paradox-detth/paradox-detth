@@ -1,7 +1,9 @@
 <h2> / skills / </h2>
 
 -> **Backend**
+
   <img src = "https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt = "Nodejs" />
+  
 -> **Contact**
 
 <a href="https://instagram.com/realnaith"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label=" alt="instagram"></a>
