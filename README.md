@@ -16,9 +16,6 @@
   <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=NestJS&color=E0234E&logo=NestJS&logoColor=FFFFFF&label=" alt = "nestjs" />
   <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=Ruby&color=CC342D&logo=Ruby&logoColor=FFFFFF&label=" alt = "ruby" />
 
-  - <h5>Currently Learning<h5>
-    <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=" alt = "typescript" />
-
 - **Database**
 
   <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=" alt = "mysql" />
@@ -38,8 +35,7 @@
 
 </br></br>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=paradox-detth&theme=transparent&hide_border=true&border_radius=1&date_format=M%20j%5B%2C%20Y%5D&card_width=350&type=png" alt="realnaith" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=paradox-detth&show_icons=true&locale=en&layout=compact&theme=radical"%20alt="paradox-detth" /></p> 
+<p><img align="center" src="(https://github-readme-stats.vercel.app/api/wakatime?username=paradox-detth" /></p> 
 
 </br></br>
 
