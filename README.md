@@ -29,7 +29,7 @@
   <img src = "https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt = "Behance"/><a>
 
 -> **Design**
-
+ 
   <img src = "https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" alt = "Adobe Lightroom"/><a>
   <img src = "https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white" alt = "Affinity Designer"/><a>
   <img src = "https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white" alt = "Affinity Photo"/><a>
@@ -38,6 +38,10 @@
   
 -> **Contact**
 
-<a href="https://discord.gg/rs4VfrUghT"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label=" alt="discord"></a>
+<p align="center">
+
+ <a href="https://discord.gg/rs4VfrUghT"><img src="https://img.shields.io/static/v1?style=for-the-    badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label=" alt="discord"></a>
+
+ </p>
 
 </div>
