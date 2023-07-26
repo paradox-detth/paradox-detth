@@ -1,3 +1,4 @@
+<p align = center ><img src="https://i.ibb.co/g9qjx9J/image-2023-07-27-003303064.png"> </p>
 -> **Skills** 
  <div>
 
